@@ -22,7 +22,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 Cover:
-    image: "/images/barcolana.png"
+    image: "/images/barcolana.jpg"
     hidden: false
     responsiveImages: true	
     caption: "Barcolana: the biggest sailing regatta in the world (Trieste, Italy)"
