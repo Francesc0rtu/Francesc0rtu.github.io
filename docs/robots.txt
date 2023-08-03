@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://francesc0rtu.github.io/sitemap.xml
