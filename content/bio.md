@@ -25,7 +25,7 @@ Cover:
     image: "/images/barcolana.jpg"
     hidden: false
     responsiveImages: true	
-    caption: "Barcolana: the biggest sailing regatta in the world (in Trieste, Italy. (__Roberto Baroni, CC BY-SA 4.0__)"
+    caption: "Barcolana: the biggest sailing regatta in the world in Trieste, Italy. *(Roberto Baroni, CC BY-SA 4.0)*"
 ---
 
  Hello, I'm **Francesco** and I'm a grad student of **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
