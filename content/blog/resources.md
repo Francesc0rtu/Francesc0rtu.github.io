@@ -36,4 +36,4 @@ Under each resource I added a short description of the content and my personal o
 
 ## Machine Learning
 - [**Lil'Log**](https://lilianweng.github.io/lil-log/): a blog about machine learning, math and programming. I love this blog, it's very well written and it covers a lot of topics. I found it very useful to get a general overview of a topic before diving into the details.
-
+- [**Tutorial on Mechanistic Interpretability**](https://arena-ch1-transformers.streamlit.app/): An *amazing* collection of tutorial/exercise to get started deeply with transformers and Mechanistic Interpretability.
