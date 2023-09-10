@@ -25,18 +25,18 @@ Cover:
     image: "/images/barcolana.jpg"
     hidden: false
     responsiveImages: true	
-    caption: "Barcolana: the biggest sailing regatta in the world in Trieste, Italy. *(Roberto Baroni, CC BY-SA 4.0)*"
+    caption: "Barcolana: the largest sailing regatta in the world, held in Trieste, Italy. *(Roberto Baroni, CC BY-SA 4.0)*"
 ---
 
  Hello, I'm **Francesco** and I'm a grad student of **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
- I'm a **NLP** and **Deep Learning** enthusiast and I'm currently working on my master thesis about **Mechanistic Interpretability** of LLMs at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/) at the Empirical Inference department.
+ I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working on my master thesis about **Mechanistic Interpretability** of LLMs at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/) at the Empirical Inference department.
 
  Previously, I studied  **Mathematics** at [University of Rome La Sapienza](https://www.mat.uniroma1.it). 
 
- I'm also a **sailor** and recently I started to learn **climbing**. I grow up in a small town in the [center of Italy](https://en.wikipedia.org/wiki/Viterbo), but I'm currently living in Trieste, a beautiful city on the sea in the north-east of Italy.
+ I'm also a **sailor** and recently I started to learn **climbing**. I grew up in a small town in the [center of Italy](https://en.wikipedia.org/wiki/Viterbo), but I'm currently living in Trieste, a beautiful city on the sea in the north-east of Italy.
 
 
-## Skills
+### Skills
 
 {{< rawhtml >}}
 <div class="skills-wrapper">
