@@ -36,7 +36,7 @@ Cover:
  I'm also a **sailor** and recently I started to learn **climbing**. I grew up in a small town in the [center of Italy](https://en.wikipedia.org/wiki/Viterbo), but I'm currently living in Trieste, a beautiful city on the sea in the north-east of Italy.
 
 
-### Skills
+## Skills
 
 {{< rawhtml >}}
 <div class="skills-wrapper">
