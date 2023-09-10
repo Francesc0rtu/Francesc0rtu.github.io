@@ -1,0 +1,27 @@
+- name: Python
+  percentage: 90
+  color: danger
+
+- name: Typescriopt
+  percentage: 80
+  color:
+
+- name: Java
+  percentage: 70
+  color: secondary
+
+- name: C/C++
+  percentage: 60
+  color: secondary
+
+- name: R
+  percentage: 60
+  color: secondary
+
+- name: MATLAB
+  percentage: 60
+  color: secondary
+
+- name: HTML/CSS
+  percentage: 60
+  color: secondary

@@ -1,0 +1,65 @@
+.skills-container {
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+.skills-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills-column {
+    flex: 1;
+    padding: 0 10px; /* Optional: Adds some spacing between the columns */
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px; /* Adds space between each skill */
+}
+
+
+.skill-name {
+    flex: 1;
+    font-weight: bold;
+    margin-right: 10px; /* Spacing between the skill name and the progress bar */
+}
+
+.progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    height: 4px; /* Adjust for desired bar height */
+    width: 60%; /* Adjust for desired bar width */
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    transition: width 0.4s ease-in-out;
+    /* Default gradient */
+    background: linear-gradient(to right, #8fefb7, #baed53);
+}
+
+.programming .progress {
+    background: linear-gradient(to right, #3498db, #9b59b6);
+}
+
+.technologies .progress {
+    background: linear-gradient(to right, #e9e173, #d7ac02);
+}
+
+
+
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
+    .skills-container {
+        flex-direction: column;
+    }
+
+    .skill {
+        width: 100%;
+        margin-bottom: 10px; /* Spacing between skills on smaller screens */
+    }
+}
+

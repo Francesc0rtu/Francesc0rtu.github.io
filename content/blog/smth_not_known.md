@@ -72,3 +72,23 @@ print(x.shape) # torch.Size([2, 6, 3, 5])
 ```
 
 Check out the [documentation](https://einops.rocks/ ) for more examples and details.
+
+
+## Wandb
+[Wandb](https://wandb.ai) is a web-tool that permit to visualize the training of a neural network in real-time. It is very easy to use and it is very useful to monitor the training of a neural network. You can also use it to compare different models and to share your results with your colleagues. It is similar to TensorBoard (which honestly I've never used).
+
+Basically, you will have just to add this line of code at your training script:
+```python
+import wandb
+...
+wandb.login()
+wandb.init(project="my-project", name="my-experiment", config=args)
+
+... # your training loop
+
+    wandb.log({"loss": loss, "accuracy": accuracy}, step=step)
+
+... # your training loop
+
+wandb.finish()
+```

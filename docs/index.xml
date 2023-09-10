@@ -23,21 +23,12 @@
     </item>
     
     <item>
-      <title>Parallel kd-tree using MPI/OpenMP</title>
-      <link>https://francesc0rtu.github.io/portfolio/genetic_cnn/</link>
-      <pubDate>Thu, 03 Aug 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://francesc0rtu.github.io/portfolio/genetic_cnn/</guid>
-      <description>Parallel kd-tree using MPI/OpenMP</description>
-    </item>
-    
-    <item>
       <title>Bio</title>
       <link>https://francesc0rtu.github.io/bio/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://francesc0rtu.github.io/bio/</guid>
-      <description>Hello, I&amp;rsquo;m Francesco and I&amp;rsquo;m a grad student of Data Science and AI at University of Trieste. I&amp;rsquo;m a NLP and Deep Learning enthusiast and I&amp;rsquo;m currently working on my master thesis about Mechanistic Interpretability of LLMs at Max-Planck Institute for Intelligent Systems.
+      <description>Hello, I&amp;rsquo;m Francesco and I&amp;rsquo;m a grad student of Data Science and AI at University of Trieste. I&amp;rsquo;m a NLP and Deep Learning enthusiast and I&amp;rsquo;m currently working on my master thesis about Mechanistic Interpretability of LLMs at Max-Planck Institute for Intelligent Systems at the Empirical Inference department.
 Previously, I studied Mathematics at University of Rome La Sapienza.
 I&amp;rsquo;m also a sailor and recently I started to learn climbing. I grow up in a small town in the center of Italy, but I&amp;rsquo;m currently living in Trieste, a beautiful city on the sea in the north-east of Italy.</description>
     </item>

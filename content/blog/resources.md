@@ -34,6 +34,12 @@ cover:
 In this page I collect all the resources I found useful during my studies along with blogs and page that I love. I hope they can be useful to you too! 
 Under each resource I added a short description of the content and my personal opinion about it.
 
-## Machine Learning
+## Machine Learning blogs
 - [**Lil'Log**](https://lilianweng.github.io/lil-log/): a blog about machine learning, math and programming. I love this blog, it's very well written and it covers a lot of topics. I found it very useful to get a general overview of a topic before diving into the details.
+
+### Mechanistic Interpretability
 - [**Tutorial on Mechanistic Interpretability**](https://arena-ch1-transformers.streamlit.app/): An *amazing* collection of tutorial/exercise to get started deeply with transformers and Mechanistic Interpretability.
+
+
+### Transformers random articles
+- [Sampling from transformers](https://huggingface.co/blog/how-to-generate)

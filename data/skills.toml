@@ -1,0 +1,34 @@
+# data/skills.toml
+
+[[programming]]
+name = "Python"
+level = "80"
+
+[[programming]]
+name = "R"
+level = "70"
+
+[[programming]]
+name = "C/C++"
+level = "60"
+
+[[technologies]]
+name = "Git"
+level = "80"
+
+[[technologies]]
+name = "Bash"
+level = "85"
+
+[[libraries]]
+name = "Pytorch"
+level = "87"
+
+[[libraries]]
+name = "Numpy"
+level = "84"
+
+[[libraries]]
+name = "Pandas"
+level = "73"
+
