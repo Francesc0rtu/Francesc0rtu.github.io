@@ -29,7 +29,7 @@ Cover:
 ---
 
  Hello, I'm **Francesco** and I'm a grad student of **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
- I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working on my master thesis about **Mechanistic Interpretability** of LLMs at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/) at the Empirical Inference department.
+ I'm an **NLP** and **Deep Learning** enthusiast and I'm currently interning  at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department, working with the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/). At University of Trieste, I'm supervised by [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/). My research interests are in the field of **Natural Language Processing** and **Mechanistic Interpretability**, which is the core of my master thesis. I'm also interested in the intersection between **NLP** and **Political Science**, and I'd like to explore more this field in the future.
 
  Previously, I studied  **Mathematics** at [University of Rome La Sapienza](https://www.mat.uniroma1.it). 
 
