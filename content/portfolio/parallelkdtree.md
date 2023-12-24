@@ -31,4 +31,4 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-[Parallel-kd-tree](https://github.com/francesc0rtu/parallel-kd-tree)
+[Parallel-kd-tree](https://github.com/francescortu/parallel-kd-tree)

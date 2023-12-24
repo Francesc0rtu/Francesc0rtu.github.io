@@ -1,4 +1,4 @@
-baseURL: "https://francesc0rtu.github.io/"
+baseURL: "https://francescortu.github.io/"
 publishDir: "docs"
 title: Francesco Ortu
 paginate: 5
@@ -82,7 +82,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/francesc0rtu"
+      url: "https://github.com/francescortu"
     - name: twitter
       url: "https://twitter.com/francescortu"
     - name: linkedin
