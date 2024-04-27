@@ -25,8 +25,12 @@ name = "Pytorch"
 level = "87"
 
 [[libraries]]
+name = "HuggingFace Transformers"
+level = "85"
+
+[[libraries]]
 name = "Numpy"
-level = "84"
+level = "80"
 
 [[libraries]]
 name = "Pandas"

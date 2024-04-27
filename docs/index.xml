@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Francesco Ortu -</copyright>
-    <lastBuildDate>Thu, 03 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://francescortu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 19:33:35 -0800</lastBuildDate><atom:link href="https://francescortu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My study resources</title>
       <link>https://francescortu.github.io/blog/resources/</link>
@@ -23,18 +23,28 @@
     </item>
     
     <item>
-      <title>Bio</title>
+      <title>Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals</title>
+      <link>https://francescortu.github.io/publications/competitions_of_mechanisms/</link>
+      <pubDate>Tue, 20 Feb 2024 19:33:35 -0800</pubDate>
+      
+      <guid>https://francescortu.github.io/publications/competitions_of_mechanisms/</guid>
+      <description>Abstract Interpretability research aims to bridge the gap between the empirical success and our scientific understanding of the inner workings of large language models (LLMs). However, most existing research in this area focused on analyzing a single mechanism, such as how models copy or recall factual knowledge. In this work, we propose the formulation of competition of mechanisms, which instead of individual mechanisms focuses on the interplay of multiple mechanisms, and traces how one of them becomes dominant in the final prediction.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
       <link>https://francescortu.github.io/bio/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://francescortu.github.io/bio/</guid>
-      <description>Hello, I&amp;rsquo;m Francesco and I&amp;rsquo;m a grad student of Data Science and AI at University of Trieste. I&amp;rsquo;m an NLP and Deep Learning enthusiast and I&amp;rsquo;m currently interning at Max-Planck Institute for Intelligent Systems, in the Empirical Inference department, working with the supervision of Zhijing Jin. At University of Trieste, I&amp;rsquo;m supervised by Alberto Cazzaniga. My research interests are in the field of Natural Language Processing and Mechanistic Interpretability, which is the core of my master thesis.</description>
+      <description>Hello, I&amp;rsquo;m Francesco and I&amp;rsquo;m a fresh graduate in Data Science and AI at University of Trieste. I&amp;rsquo;m an NLP and Deep Learning enthusiast and I&amp;rsquo;m currently working at AREA Science Park as a Temporary Researcher (Borsista di Ricerca), under the supervision of Alberto Cazzaniga.
+Previusly I was an intern at Max-Planck Institute for Intelligent Systems, in the Empirical Inference department, working with the supervision of Zhijing Jin, where I wrote part of my master thesis.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>CV</title>
       <link>https://francescortu.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://francescortu.github.io/cv/</guid>
       <description></description>

@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "About Me"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -28,12 +28,90 @@ Cover:
     caption: "Barcolana: the largest sailing regatta in the world, held in Trieste, Italy. *(Roberto Baroni, CC BY-SA 4.0)*"
 ---
 
- Hello, I'm **Francesco** and I'm a grad student of **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
- I'm an **NLP** and **Deep Learning** enthusiast and I'm currently interning  at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department, working with the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/). At University of Trieste, I'm supervised by [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/). My research interests are in the field of **Natural Language Processing** and **Mechanistic Interpretability**, which is the core of my master thesis. I'm also interested in the intersection between **NLP** and **Political Science**, and I'd like to explore more this field in the future.
-
- Previously, I studied  **Mathematics** at [University of Rome La Sapienza](https://www.mat.uniroma1.it). 
+ Hello, I'm **Francesco** and I'm a fresh graduate in **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
+ I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working at AREA Science Park as a Temporary Researcher (Borsista di Ricerca), under the supervision of [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/).
+ 
+ Previusly I was an intern at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department, working with the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/), where I wrote part of my master thesis.
+ 
+  My research interests are in the field of **Natural Language Processing** and **Mechanistic Interpretability**, which is the core of my master thesis. I'm also interested in the intersection between **NLP** and **Political Science**, and I'd like to explore more this field in the future.
 
  I'm also a **sailor** and recently I started to learn **climbing**. I grew up in a small town in the [center of Italy](https://en.wikipedia.org/wiki/Viterbo), but I'm currently living in Trieste, a beautiful city on the sea in the north-east of Italy.
+ 
+## News
+
+
+{{< rawhtml >}}
+
+
+<div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
+    <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em; margin-bottom: 5px;">NEW</div>
+    <p style="margin: 0;"> Our paper (and my first one!) have been accepted to ACL 2024! 🎉 🎉 Check out our work <a href="https://arxiv.org/abs/2402.11655">here.</a> </p>
+</div>
+<div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
+    <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em; margin-bottom: 5px;">NEW</div>
+    <p style="margin: 0;">I've started to work as a Temporary Research Associate at AREA Science Park. I'll be working on LLMs and Interpretability.</p>
+</div>
+{{< /rawhtml >}}
+
+
+
+{{< rawhtml >}}
+
+<div class="dual-box-container">
+  <div class="experience-box">
+    <h2 class="experience-title">Experience</h2>
+    <div class="experience-item">
+    <img src="../images/lab.png" alt="Research Icon" class="exp-icon"/>
+      <div class="experience-content">
+        <h3>Temporary Research Associate (Borsista di Ricerca)</h3>
+        <p class="institution">AREA Science Park</p>
+        <p class="location">Trieste, Italy</p>
+        <p class="date"> May 2024 - Now </p>
+      </div>
+    </div>
+    <div class="experience-item">
+    <img src="../images/lab.png" alt="Research Icon" class="exp-icon"/>
+      <div class="experience-content">
+        <h3>Research Intern</h3>
+        <p class="institution">Max-Planck Institute of Intelligent Systems</p>
+        <p class="location">Tubingen, Germany</p>
+        <p class="date">Sep. 2023 - Jan. 2024</p>
+      </div>
+    </div>
+    <div class="experience-item">
+          <img src="../images/programming.png" alt="Research Icon" class="exp-icon"/>
+      <div class="experience-content">
+        <h3>Machine Learning Engineering Intern</h3>
+        <p class="institution">PLUS Srl</p>
+        <p class="location">Trieste, Italy</p>
+        <p class="date">Feb. 2023 - Apr. 2023</p>
+      </div>
+    </div>
+  </div>
+  <div class="education-box">
+    <h2 class="education-title">Education</h2>
+    <div class="education-item">
+    <img src="../images/edu.png" alt="Research Icon" class="exp-icon"/>
+      <div class="education-content">
+        <h3>MSc in Data Science and Scientific Computing</h3>
+        <p class="institution">University of Trieste, SISSA, ICTP</p>
+        <p class="location">Trieste, Italy</p>
+        <p class="date">2024</p>
+      </div>
+    </div>
+    <div class="education-item">
+    <img src="../images/edu.png" alt="Research Icon" class="exp-icon"/>
+      <div class="education-content">
+        <h3>BSc in Mathematics</h3>
+        <p class="institution">University of Rome La Sapienza</p>
+        <p class="location">Rome, Italy</p>        
+        <p class="date">2020</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+{{< /rawhtml >}}
 
 
 ## Skills

@@ -11,6 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Francesco Ortu -</copyright><atom:link href="https://francescortu.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Francesco Ortu -</copyright>
+    <lastBuildDate>Thu, 03 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://francescortu.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

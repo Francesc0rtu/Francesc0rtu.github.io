@@ -63,8 +63,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hi there 👋
-    subtitle: "Here is Francesco, welcome!"
+    title: Hi there, I'm Francesco 👋
+    subtitle: "Temporary Researcher (Borsista di Ricerca) at AREA Science Park \n\n NLP and LLM Intepretability"
     imageUrl: "/images/profilo2.png"
     imageWidth: 250
     imageHeight: 250
@@ -72,8 +72,8 @@ params:
     buttons:
       - name: About Me
         url: /bio/
-      - name: Blog
-        url: /blog/
+    # add new buttons
+    
 
   # home-info mode
   homeInfoParams:
@@ -127,11 +127,15 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog/
-      weight: 20
-    - identifier: portfolio
-      name: Portfolio
-      url: /portfolio/
       weight: 30
+    - identifier: Publications
+      name: Publications
+      url: /Publications/
+      weight: 20
+    - identifier: CV
+      name: CV
+      url: CV.pdf
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
