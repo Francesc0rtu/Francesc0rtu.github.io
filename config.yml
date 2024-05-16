@@ -64,7 +64,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there, I'm Francesco 👋
-    subtitle: "Temporary Researcher (Borsista di Ricerca) at AREA Science Park \n\n NLP and LLM Intepretability"
+    subtitle: "Early Stage Researcher (Borsista di Ricerca) at AREA Science Park \n\n NLP and Intepretability of LLM"
     imageUrl: "/images/profilo2.png"
     imageWidth: 250
     imageHeight: 250

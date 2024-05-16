@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Francesco Ortu</title>
-    <link>https://francescortu.github.io/publications/</link>
+    <link>http://localhost:1313/publications/</link>
     <description>Recent content in Publications on Francesco Ortu</description>
     <image>
       <title>Francesco Ortu</title>
-      <url>https://francescortu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://francescortu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Francesco Ortu -</copyright>
-    <lastBuildDate>Tue, 20 Feb 2024 19:33:35 -0800</lastBuildDate><atom:link href="https://francescortu.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 19:33:35 -0800</lastBuildDate><atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals</title>
-      <link>https://francescortu.github.io/publications/competitions_of_mechanisms/</link>
+      <link>http://localhost:1313/publications/competitions_of_mechanisms/</link>
       <pubDate>Tue, 20 Feb 2024 19:33:35 -0800</pubDate>
       
-      <guid>https://francescortu.github.io/publications/competitions_of_mechanisms/</guid>
+      <guid>http://localhost:1313/publications/competitions_of_mechanisms/</guid>
       <description>Abstract Interpretability research aims to bridge the gap between the empirical success and our scientific understanding of the inner workings of large language models (LLMs). However, most existing research in this area focused on analyzing a single mechanism, such as how models copy or recall factual knowledge. In this work, we propose the formulation of competition of mechanisms, which instead of individual mechanisms focuses on the interplay of multiple mechanisms, and traces how one of them becomes dominant in the final prediction.</description>
     </item>
     

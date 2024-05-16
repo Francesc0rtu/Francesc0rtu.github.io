@@ -29,7 +29,7 @@ Cover:
 ---
 
  Hello, I'm **Francesco** and I'm a fresh graduate in **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
- I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working at AREA Science Park as a Temporary Researcher (Borsista di Ricerca), under the supervision of [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/).
+ I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working at AREA Science Park as Early Stage Researcher (Borsista di Ricerca), under the supervision of [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/).
  
  Previusly I was an intern at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department, working with the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/), where I wrote part of my master thesis.
  
@@ -44,13 +44,22 @@ Cover:
 
 
 <div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
-    <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em; margin-bottom: 5px;">NEW</div>
-    <p style="margin: 0;"> Our paper (and my first one!) have been accepted to ACL 2024! 🎉 🎉 Check out our work <a href="https://arxiv.org/abs/2402.11655">here.</a> </p>
+    <div style="display: flex; align-items: center; justify-content: start; margin-bottom: 5px;">
+        <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em;">NEW!</div>
+        <div style="padding-left: 8px; font-size: 0.8em;"> 16/05/2024</div>
+    </div>
+ <p style="margin: 0;"> Our paper (and my first one!) has been accepted to ACL 2024! 🎉 🎉 Check out our work <a href="https://arxiv.org/abs/2402.11655"> here </a>.
 </div>
 <div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
-    <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em; margin-bottom: 5px;">NEW</div>
-    <p style="margin: 0;">I've started to work as a Temporary Research Associate at AREA Science Park. I'll be working on LLMs and Interpretability.</p>
+    <div style="display: flex; align-items: center; justify-content: start; margin-bottom: 5px;">
+        <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em;">NEW!</div>
+        <div style="padding-left: 8px; font-size: 0.8em;"> 16/05/2024</div>
+    </div>
+    <p style="margin: 0;">I've started to work as a Early Stage Researcher at AREA Science Park. I'll be working on LLMs and Interpretability.</p>
 </div>
+
+
+
 {{< /rawhtml >}}
 
 
@@ -63,7 +72,7 @@ Cover:
     <div class="experience-item">
     <img src="../images/lab.png" alt="Research Icon" class="exp-icon"/>
       <div class="experience-content">
-        <h3>Temporary Research Associate (Borsista di Ricerca)</h3>
+        <h3>Early Stage Researcher (Borsista di Ricerca)</h3>
         <p class="institution">AREA Science Park</p>
         <p class="location">Trieste, Italy</p>
         <p class="date"> May 2024 - Now </p>
