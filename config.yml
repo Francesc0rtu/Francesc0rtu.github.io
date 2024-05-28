@@ -72,6 +72,10 @@ params:
     buttons:
       - name: About Me
         url: /bio/
+      - name: Publications
+        url: /publications/
+      - name: Send me an email
+        url: mailto:francescortu@live.it
     # add new buttons
     
 
@@ -120,7 +124,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: bio
+    - identifier: bioz
       name: Bio
       url: /bio/
       weight: 10
@@ -147,4 +151,4 @@ markup:
     # lineNos: true
     # style: monokai
 
-copyright: "© 2023 Francesco Ortu -"
+copyright: "© 2024 Francesco Ortu -"
