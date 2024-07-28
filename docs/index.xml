@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Francesco Ortu</title>
-    <link>http://localhost:1313/</link>
+    <link>https://francescortu.github.io/</link>
     <description>Recent content on Francesco Ortu</description>
     <image>
       <title>Francesco Ortu</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://francescortu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://francescortu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Francesco Ortu -</copyright>
-    <lastBuildDate>Sat, 01 Jun 2024 11:30:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://francescortu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My productivity workflow</title>
-      <link>http://localhost:1313/blog/productivity/</link>
+      <link>https://francescortu.github.io/blog/productivity/</link>
       <pubDate>Sat, 01 Jun 2024 11:30:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/productivity/</guid>
+      <guid>https://francescortu.github.io/blog/productivity/</guid>
       <description>Random collection of tools that I found useful to organize my work</description>
     </item>
     
     <item>
       <title>My study resources</title>
-      <link>http://localhost:1313/blog/resources/</link>
+      <link>https://francescortu.github.io/blog/resources/</link>
       <pubDate>Thu, 03 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/resources/</guid>
+      <guid>https://francescortu.github.io/blog/resources/</guid>
       <description>Random collection of resources I found useful during my studies</description>
     </item>
     
     <item>
       <title>Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals</title>
-      <link>http://localhost:1313/publications/competitions_of_mechanisms/</link>
+      <link>https://francescortu.github.io/publications/competitions_of_mechanisms/</link>
       <pubDate>Tue, 20 Feb 2024 19:33:35 -0800</pubDate>
       
-      <guid>http://localhost:1313/publications/competitions_of_mechanisms/</guid>
+      <guid>https://francescortu.github.io/publications/competitions_of_mechanisms/</guid>
       <description>Abstract Interpretability research aims to bridge the gap between the empirical success and our scientific understanding of the inner workings of large language models (LLMs). However, most existing research in this area focused on analyzing a single mechanism, such as how models copy or recall factual knowledge. In this work, we propose the formulation of competition of mechanisms, which instead of individual mechanisms focuses on the interplay of multiple mechanisms, and traces how one of them becomes dominant in the final prediction.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://francescortu.github.io/cv/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://francescortu.github.io/cv/</guid>
       <description>Download the full CV for more details.
 👨‍🎓 Education PhD in Applied Data Science &amp;amp; Artificial Intelligence, University of Trieste, 2024 - now MSc in Data Science &amp;amp; Scientific Computing, University of Trieste &amp;amp; SISSA, 2024 BSc in Mathematics, University of Rome La Sapienza, 2020 👨‍🔬 Research Early Stage Researcher, AREA Science Park, Trieste, Italy, Jan. 2024 - July 2024 Research Intern, Max-Planck Institute of Intelligent Systems, Tubingen, Germany, Sep. 2023 - Jan.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/bio/</link>
+      <link>https://francescortu.github.io/bio/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/bio/</guid>
+      <guid>https://francescortu.github.io/bio/</guid>
       <description>Hello, I&amp;rsquo;m Francesco and I&amp;rsquo;m a first-year PhD student at University of Trieste and at AREA Science Park, under the supervision of Alberto Cazzaniga.
 I&amp;rsquo;m currently working on Mechanistic Interpretability and NLP4Good (with a focus on the applications of NLP to healtcare), where I&amp;rsquo;m mostly interested in the intersection between geometrical and causal tools for interpretability.
 Previusly I was an intern at Max-Planck Institute for Intelligent Systems, in the Empirical Inference department (Director Prof.</description>

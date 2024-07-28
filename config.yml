@@ -124,7 +124,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: bioz
+    - identifier: bio
       name: Bio
       url: /bio/
       weight: 10
