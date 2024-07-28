@@ -28,12 +28,12 @@ Cover:
     caption: "Barcolana: the largest sailing regatta in the world, held in Trieste, Italy. *(Roberto Baroni, CC BY-SA 4.0)*"
 ---
 
- Hello, I'm **Francesco** and I'm a fresh graduate in **Data Science** and **AI** at [University of Trieste](https://dssc.units.it/).
- I'm an **NLP** and **Deep Learning** enthusiast and I'm currently working at AREA Science Park as Early Stage Researcher (Borsista di Ricerca), under the supervision of [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/).
+ Hello, I'm **Francesco** and I'm a first-year PhD student at [University of Trieste](https://adsai.units.it/) and at [AREA Science Park](https://en.areasciencepark.it/rdplatform-2023/lade-laboratorio-di-data-engeneering/), under the supervision of [Alberto Cazzaniga](https://area-rit.gitlab.io/lade/alberto.cazzaniga/). 
  
- Previusly I was an intern at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department, working with the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/), where I wrote part of my master thesis.
+ I'm currently working on **Mechanistic Interpretability**  and **NLP4Good** (with a focus on the applications of NLP to healtcare), where I'm mostly interested in the intersection between geometrical and causal tools for interpretability.
  
-  My research interests are in the field of **Natural Language Processing** and **Mechanistic Interpretability**, which is the core of my master thesis. I'm also interested in the intersection between **NLP** and **Political Science**, and I'd like to explore more this field in the future.
+ Previusly I was an intern at [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/), in the Empirical Inference department (Director Prof. Bernhard Schölkopf), working under the supervision of [Zhijing Jin](https://zhijing-jin.com/fantasy/), where I wrote part of my master thesis.
+ 
 
  I'm also a **sailor** and recently I started to learn **climbing**. I grew up in a small town in the [center of Italy](https://en.wikipedia.org/wiki/Viterbo), but I'm currently living in Trieste, a beautiful city on the sea in the north-east of Italy.
  
@@ -75,7 +75,7 @@ Cover:
         <h3>Early Stage Researcher (Borsista di Ricerca)</h3>
         <p class="institution">AREA Science Park</p>
         <p class="location">Trieste, Italy</p>
-        <p class="date"> May 2024 - Now </p>
+        <p class="date"> Jan. 2024 - July 2024 </p>
       </div>
     </div>
     <div class="experience-item">
@@ -102,6 +102,16 @@ Cover:
     <div class="education-item">
     <img src="../images/edu.png" alt="Research Icon" class="exp-icon"/>
       <div class="education-content">
+        <h3>PhD in Applied Data Science & AI</h3>
+        <p class="institution">University of Trieste</p>
+        <p class="location">Trieste, Italy</p>
+        <p class="date">2024 - Now</p>
+      </div>
+  </div>
+  <!-- <div class="education-box"> -->
+    <div class="education-item">
+    <img src="../images/edu.png" alt="Research Icon" class="exp-icon"/>
+      <div class="education-content">
         <h3>MSc in Data Science and Scientific Computing</h3>
         <p class="institution">University of Trieste, SISSA, ICTP</p>
         <p class="location">Trieste, Italy</p>
@@ -122,7 +132,7 @@ Cover:
 </div>
 {{< /rawhtml >}}
 
-
+<!-- 
 ## Skills
 
 {{< rawhtml >}}
@@ -139,7 +149,7 @@ Cover:
 
     </div>
 </div>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 
 
