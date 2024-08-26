@@ -1,6 +1,6 @@
 ---
 title: "Master Thesis"
-weight: 5
+weight: 1
 # aliases: ["/first"]
 author: ["Francesco Ortu" ] # multiple authors
 # author: ["Me", "You"] # multiple authors
