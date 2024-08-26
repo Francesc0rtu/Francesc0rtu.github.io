@@ -41,8 +41,13 @@ Cover:
 
 
 {{< rawhtml >}}
-
-
+<div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
+    <div style="display: flex; align-items: center; justify-content: start; margin-bottom: 5px;">
+        <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em;">NEW!</div>
+        <div style="padding-left: 8px; font-size: 0.8em;"> 16/05/2024</div>
+    </div>
+ <p style="margin: 0;"> I've started a PhD at University of Trieste and AREA Science Park. 🚀 </a>.
+</div>
 <div class="news-box" style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; background-color: transparent; border-radius: 4px;">
     <div style="display: flex; align-items: center; justify-content: start; margin-bottom: 5px;">
         <div class="news-flag" style="color: #fff; background-color: #f89406; border-radius: 2px; display: inline-block; padding: 2px 8px; font-size: 0.8em;">NEW!</div>
