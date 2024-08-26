@@ -32,6 +32,15 @@
     </item>
     
     <item>
+      <title>Master Thesis</title>
+      <link>https://francescortu.github.io/publications/master_thesis/</link>
+      <pubDate>Wed, 20 Mar 2024 19:33:35 -0800</pubDate>
+      
+      <guid>https://francescortu.github.io/publications/master_thesis/</guid>
+      <description>Abstract L’introduzione dei Modelli di Linguaggio di Grande Dimensione (LLMs) ha rappresentato una rivoluzione nell’elaborazione del linguaggio naturale e nel modo in cui gli esseri umani interagiscono con le macchine. In particolare, la serie GPT di OpenAI si è distinta per la sua notevole capacità di comprendere e generare testi in modo simile a quello umano, guadagnando rapidamente un’ampia base di utenti grazie alla sua applicabilità in campi come il dialogo o la scrittura e grazie alle sorprendenti abilità di ragionamento dimostrate.</description>
+    </item>
+    
+    <item>
       <title>Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals</title>
       <link>https://francescortu.github.io/publications/competitions_of_mechanisms/</link>
       <pubDate>Tue, 20 Feb 2024 19:33:35 -0800</pubDate>
