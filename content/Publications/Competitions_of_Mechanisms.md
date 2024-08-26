@@ -2,7 +2,7 @@
 title: "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"
 weight: 5
 # aliases: ["/first"]
-author: ["Francesco Ortu*", "Zhijing Jin*", "Diego Doimo", "Mrinmaya Sachan", "Alberto Cazzaniga", "Bernhard Schölkopf" ] # multiple authors
+author: ["Francesco Ortu*", "Zhijing Jin*", "Diego Doimo", "Mrinmaya Sachan", "Alberto Cazzaniga", "Bernhard Schölkopf; ACL 2024" ] # multiple authors
 # author: ["Me", "You"] # multiple authors
 date: 2024-02-20T19:33:35-08:00
 showToc: false

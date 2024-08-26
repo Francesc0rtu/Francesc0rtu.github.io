@@ -14,21 +14,21 @@
     <copyright>© 2024 Francesco Ortu -</copyright>
     <lastBuildDate>Wed, 20 Mar 2024 19:33:35 -0800</lastBuildDate><atom:link href="https://francescortu.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Master Thesis</title>
-      <link>https://francescortu.github.io/publications/master_thesis/</link>
-      <pubDate>Wed, 20 Mar 2024 19:33:35 -0800</pubDate>
-      
-      <guid>https://francescortu.github.io/publications/master_thesis/</guid>
-      <description>Abstract L’introduzione dei Modelli di Linguaggio di Grande Dimensione (LLMs) ha rappresentato una rivoluzione nell’elaborazione del linguaggio naturale e nel modo in cui gli esseri umani interagiscono con le macchine. In particolare, la serie GPT di OpenAI si è distinta per la sua notevole capacità di comprendere e generare testi in modo simile a quello umano, guadagnando rapidamente un’ampia base di utenti grazie alla sua applicabilità in campi come il dialogo o la scrittura e grazie alle sorprendenti abilità di ragionamento dimostrate.</description>
-    </item>
-    
-    <item>
       <title>Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals</title>
       <link>https://francescortu.github.io/publications/competitions_of_mechanisms/</link>
       <pubDate>Tue, 20 Feb 2024 19:33:35 -0800</pubDate>
       
       <guid>https://francescortu.github.io/publications/competitions_of_mechanisms/</guid>
       <description>Abstract Interpretability research aims to bridge the gap between the empirical success and our scientific understanding of the inner workings of large language models (LLMs). However, most existing research in this area focused on analyzing a single mechanism, such as how models copy or recall factual knowledge. In this work, we propose the formulation of competition of mechanisms, which instead of individual mechanisms focuses on the interplay of multiple mechanisms, and traces how one of them becomes dominant in the final prediction.</description>
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://francescortu.github.io/publications/master_thesis/</link>
+      <pubDate>Wed, 20 Mar 2024 19:33:35 -0800</pubDate>
+      
+      <guid>https://francescortu.github.io/publications/master_thesis/</guid>
+      <description>Abstract L’introduzione dei Modelli di Linguaggio di Grande Dimensione (LLMs) ha rappresentato una rivoluzione nell’elaborazione del linguaggio naturale e nel modo in cui gli esseri umani interagiscono con le macchine. In particolare, la serie GPT di OpenAI si è distinta per la sua notevole capacità di comprendere e generare testi in modo simile a quello umano, guadagnando rapidamente un’ampia base di utenti grazie alla sua applicabilità in campi come il dialogo o la scrittura e grazie alle sorprendenti abilità di ragionamento dimostrate.</description>
     </item>
     
   </channel>
