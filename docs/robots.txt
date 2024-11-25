@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://francescortu.github.io/sitemap.xml
